@@ -1,0 +1,15 @@
+C:\Users\Onwe\Documents\Projects\For_Challenges\obj\Debug\net6.0\For_Challenges.csproj.AssemblyReference.cache
+C:\Users\Onwe\Documents\Projects\For_Challenges\obj\Debug\net6.0\For_Challenges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onwe\Documents\Projects\For_Challenges\obj\Debug\net6.0\For_Challenges.AssemblyInfoInputs.cache
+C:\Users\Onwe\Documents\Projects\For_Challenges\obj\Debug\net6.0\For_Challenges.AssemblyInfo.cs
+C:\Users\Onwe\Documents\Projects\For_Challenges\obj\Debug\net6.0\For_Challenges.csproj.CoreCompileInputs.cache
+C:\Users\Onwe\Documents\Projects\For_Challenges\bin\Debug\net6.0\For_Challenges.exe
+C:\Users\Onwe\Documents\Projects\For_Challenges\bin\Debug\net6.0\For_Challenges.deps.json
+C:\Users\Onwe\Documents\Projects\For_Challenges\bin\Debug\net6.0\For_Challenges.runtimeconfig.json
+C:\Users\Onwe\Documents\Projects\For_Challenges\bin\Debug\net6.0\For_Challenges.dll
+C:\Users\Onwe\Documents\Projects\For_Challenges\bin\Debug\net6.0\ref\For_Challenges.dll
+C:\Users\Onwe\Documents\Projects\For_Challenges\bin\Debug\net6.0\For_Challenges.pdb
+C:\Users\Onwe\Documents\Projects\For_Challenges\obj\Debug\net6.0\For_Challenges.dll
+C:\Users\Onwe\Documents\Projects\For_Challenges\obj\Debug\net6.0\ref\For_Challenges.dll
+C:\Users\Onwe\Documents\Projects\For_Challenges\obj\Debug\net6.0\For_Challenges.pdb
+C:\Users\Onwe\Documents\Projects\For_Challenges\obj\Debug\net6.0\For_Challenges.genruntimeconfig.cache
